@@ -1,0 +1,6 @@
+title: Sou
+description: Controle financeiro pessoal para Android
+theme: jekyll-theme-minimal
+lang: pt-BR
+exclude:
+  - README.md
